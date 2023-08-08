@@ -1,0 +1,393 @@
+﻿[
+  {
+    "takimadi": "Manchester City",
+    "ovr": 85
+  },
+  {
+    "takimadi": "Bayern München",
+    "ovr": 85
+  },
+  {
+    "takimadi": "Real Madrid",
+    "ovr": 85
+  },
+  {
+    "takimadi": "Liverpool",
+    "ovr": 84
+  },
+  {
+    "takimadi": "Paris Saint-Germain",
+    "ovr": 84
+  },
+  {
+    "takimadi": "Atletico de Madrid",
+    "ovr": 83
+  },
+  {
+    "takimadi": "FC Barcelona",
+    "ovr": 83
+  },
+  {
+    "takimadi": "Arsenal",
+    "ovr": 82
+  },
+  {
+    "takimadi": "Chealsea",
+    "ovr": 82
+  },
+  {
+    "takimadi": "Manchester United",
+    "ovr": 82
+  },
+  {
+    "takimadi": "Inter",
+    "ovr": 82
+  },
+  {
+    "takimadi": "Juventus",
+    "ovr": 82
+  },
+  {
+    "takimadi": "Totthenam Hotspur",
+    "ovr": 81
+  },
+  {
+    "takimadi": "Borussia Dortmund",
+    "ovr": 81
+  },
+  {
+    "takimadi": "AC Milan",
+    "ovr": 81
+  },
+  {
+    "takimadi": "Newcastle United",
+    "ovr": 80
+  },
+  {
+    "takimadi": "Napoli",
+    "ovr": 80
+  },
+  {
+    "takimadi": "Roma",
+    "ovr": 80
+  },
+  {
+    "takimadi": "Sevilla FC",
+    "ovr": 80
+  },
+  {
+    "takimadi": "Leipzig",
+    "ovr": 81
+  },
+  {
+    "takimadi": "Villereal",
+    "ovr": 80
+  },
+  {
+    "takimadi": "Aston Villa",
+    "ovr": 79
+  },
+  {
+    "takimadi": "Bayer Leverkusen",
+    "ovr": 79
+  },
+  {
+    "takimadi": "Lazio",
+    "ovr": 79
+  },
+  {
+    "takimadi": "Athletic Club de Bilbao",
+    "ovr": 79
+  },
+  {
+    "takimadi": "Real Betis Balompie",
+    "ovr": 79
+  },
+  {
+    "takimadi": "Real Sociedad",
+    "ovr": 79
+  },
+  {
+    "takimadi": "SL Benfica",
+    "ovr": 79
+  },
+  {
+    "takimadi": "West Ham United",
+    "ovr": 78
+  },
+  {
+    "takimadi": "Entracht Frankfurt",
+    "ovr": 78
+  },
+  {
+    "takimadi": "Fiorentina",
+    "ovr": 78
+  },
+  {
+    "takimadi": "Atalanta",
+    "ovr": 78
+  },
+  {
+    "takimadi": "Leicester City",
+    "ovr": 78
+  },
+  {
+    "takimadi": "Wolverhampton Wanderers",
+    "ovr": 78
+  },
+  {
+    "takimadi": "Olympique de Marseille",
+    "ovr": 78
+  },
+  {
+    "takimadi": "FC Porto",
+    "ovr": 78
+  },
+  {
+    "takimadi": "Sporting CP",
+    "ovr": 78
+  },
+  {
+    "takimadi": "Nottingham Forest",
+    "ovr": 77
+  },
+  {
+    "takimadi": "Brighton & Hove Albion",
+    "ovr": 77
+  },
+  {
+    "takimadi": "Borussia Mönchengladbach",
+    "ovr": 77
+  },
+  {
+    "takimadi": "Olympique Lyonnais",
+    "ovr": 77
+  },
+  {
+    "takimadi": "AS Monaco",
+    "ovr": 77
+  },
+  {
+    "takimadi": "Galatasaray",
+    "ovr": 77
+  },
+  {
+    "takimadi": "Stade Rennais FC",
+    "ovr": 77
+  },
+  {
+    "takimadi": "RC Celta de Vigo",
+    "ovr": 77
+  },
+  {
+    "takimadi": "Getafe",
+    "ovr": 77
+  },
+  {
+    "takimadi": "Espanyol",
+    "ovr": 77
+  },
+  {
+    "takimadi": "Ajax",
+    "ovr": 77
+  },
+  {
+    "takimadi": "Everton",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Crystal Palace",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Flamengo",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Freiburg",
+    "ovr": 76
+  },
+  {
+    "takimadi": "TSG Hoffeheim",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Racing Club de Lens",
+    "ovr": 76
+  },
+  {
+    "takimadi": "LOSC Lille",
+    "ovr": 76
+  },
+  {
+    "takimadi": "OGC Nice",
+    "ovr": 76
+  },
+  {
+    "takimadi": "River Plate",
+    "ovr": 76
+  },
+  {
+    "takimadi": "SC Braga",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Palmeiras",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Fulham",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Vfl Wolfsburg",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Trabzonspor",
+    "ovr": 76
+  },
+  {
+    "takimadi": "AC Monza",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Valencia CF",
+    "ovr": 76
+  },
+  {
+    "takimadi": "CA Osasuna",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Rayo Vallecano",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Girona FC",
+    "ovr": 76
+  },
+  {
+    "takimadi": "PSV",
+    "ovr": 76
+  },
+  {
+    "takimadi": "Leeds United",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Clube Atletico Minerio",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Southampton",
+    "ovr": 75
+  },
+  {
+    "takimadi": "1.FC Union Berlin",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Torino F.C.",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Udinese Calcio",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Fenerbahçe SK",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Beşiktaş JK",
+    "ovr": 75
+  },
+  {
+    "takimadi": "U.S. Sassuolo Calcio",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Brentford",
+    "ovr": 75
+  },
+  {
+    "takimadi": "1. FSV Mainz 05",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Cadiz CF",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Bologna",
+    "ovr": 75
+  },
+  {
+    "takimadi": "RCD Mallorca",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Real Valladolid CF",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Club Brugge KV",
+    "ovr": 75
+  },
+  {
+    "takimadi": "Feyenoord",
+    "ovr": 75
+  },
+  {
+    "takimadi": "SK Slavia Praha",
+    "ovr": 74
+  },
+  {
+    "takimadi": "AEK Athens",
+    "ovr": 74
+  },
+  {
+    "takimadi": "Club Athletico Paranaense",
+    "ovr": 74
+  },
+  {
+    "takimadi": "Internacional",
+    "ovr": 74
+  },
+  {
+    "takimadi": "1. FC Köln",
+    "ovr": 74
+  },
+  {
+    "takimadi": "Vfb Stuttgart",
+    "ovr": 74
+  },
+  {
+    "takimadi": "US Salernitana 1919",
+    "ovr": 74
+  },
+
+  {
+    "takimadi": "FC Augsburg",
+    "ovr": 74
+  },
+  {
+    "takimadi": "Montpellier Herault SC",
+    "ovr": 74
+  },
+  {
+    "takimadi": "FC Nantes",
+    "ovr": 74
+  },
+  {
+    "takimadi": "Celtic",
+    "ovr": 74
+  },
+  {
+    "takimadi": "Boca Juniors",
+    "ovr": 74
+  }
+
+]
+

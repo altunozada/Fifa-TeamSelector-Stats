@@ -1,0 +1,5 @@
+/Users/ada/Desktop/fifa_vscode/obj/Debug/net7.0/fifa_vscode.csproj.AssemblyReference.cache
+/Users/ada/Desktop/fifa_vscode/obj/Debug/net7.0/fifa_vscode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ada/Desktop/fifa_vscode/obj/Debug/net7.0/fifa_vscode.AssemblyInfoInputs.cache
+/Users/ada/Desktop/fifa_vscode/obj/Debug/net7.0/fifa_vscode.AssemblyInfo.cs
+/Users/ada/Desktop/fifa_vscode/obj/Debug/net7.0/fifa_vscode.csproj.CoreCompileInputs.cache
